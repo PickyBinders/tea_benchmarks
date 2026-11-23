@@ -1,10 +1,10 @@
 # TEA benchmarks
 
-Code and notebooks for the TEA paper. TEA conversion and STEAM are separate projects.
+Code and notebooks for the TEA paper.
 
 ## Reproduce the figures
 
-1. Download `tea_bench_data.tar.gz` from **Zenodo (DOI to be added)** and extract
+1. Download `tea_bench_data.tar.gz` from [Zenodo](https://doi.org/10.5281/zenodo.17725634) and extract
    it in this repository. This creates `data/`; its README describes the inputs.
 2. Use Python 3.12, install the Lato font, and install the dependencies:
 
