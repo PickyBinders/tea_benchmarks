@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+data/*
+!data/README.md
+!data/settings/
+!data/settings/**
+tea_bench_data.tar.gz
+*.tar.zst
